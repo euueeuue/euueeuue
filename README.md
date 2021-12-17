@@ -1,4 +1,4 @@
-[![Deploy](https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png)](https://dashboard.heroku.com/new?template=https://github.com/auuaauua/helloworld.git)
+[![Deploy](https://github.githubassets.com/images/icons/emoji/unicode/1f3af.png)](https://dashboard.heroku.com/new?template=https://github.com/euueeuue/euueeuue.git)
 ```
 const SingleDay = 'helloworld.herokuapp.com'
 const DoubleDay = 'helloworld.herokuapp.com'
